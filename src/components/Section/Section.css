@@ -1,0 +1,12 @@
+.title{
+    color: red;
+    text-align: center;
+}
+
+.container-1{
+    /* border-radius: 17px; */
+    border:2px solid black;
+    border-radius: 10px;
+    max-width: 600px;
+   
+}

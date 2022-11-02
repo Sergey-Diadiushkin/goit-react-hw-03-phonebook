@@ -1,0 +1,6 @@
+.Filter_label{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto 15px;
+    width: 200px;
+}
